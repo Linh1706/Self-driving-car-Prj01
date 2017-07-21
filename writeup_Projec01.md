@@ -37,18 +37,18 @@ In order to draw a single line on the left and right lanes, I modified the draw_
 
 If you'd like to include images to show how the pipeline works, here is how to include an image:
 
-![Result 1](./Docs_images/result1.jpg), ![Result 2](./Docs_images/result2.jpg)
-![Result 3](./Docs_images/result3.jpg), ![Result 4](./Docs_images/result4.jpg)
+![Result 1](./Docs_images/result1.jpg) ![Result 2](./Docs_images/result2.jpg)
+![Result 3](./Docs_images/result3.jpg) ![Result 4](./Docs_images/result4.jpg)
 
 It looks pretty good, for now.
 
 But when applying this pipeline to the video, the result is not as good as expected.
 This is the result from the first video
-![Video 01](./Docs_images/Video01.jpg)
+![Video 01](./Docs_images/Video01.png)
 
 But the result on video 02 is much better, however, we experienced some flickering and not as consistent.
 
-![Video 01](./Docs_images/Video01.jpg)
+![Video 02](./Docs_images/Video02.png)
 
 
 ### 2. Identify potential shortcomings with your current pipeline
